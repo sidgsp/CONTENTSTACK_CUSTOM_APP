@@ -5,7 +5,6 @@ import '@contentstack/venus-components/build/main.css';
 import "../index.css";
 import "./CustomField.css";
 
-import { useAppConfig } from '../../common/hooks/useAppConfig';
 import { useCustomField } from '../../common/hooks/useCustomField';
 
 import { Field, FieldLabel, TextInput, ValidationMessage } from '@contentstack/venus-components';
