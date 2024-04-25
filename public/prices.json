@@ -1,0 +1,122 @@
+{
+    "0001": {
+        "sku": "0001",
+        "name": "Lego City",
+        "originalPrice": "$45.99",
+        "markdownPrice": "$19.99"
+    },
+    "0002": {
+        "sku": "0002",
+        "name": "Martex Dish Cloth",
+        "originalPrice": "$12.99",
+        "markdownPrice": "$4.99"
+    },
+    "0003": {
+        "sku": "0003",
+        "name": "Cleanica Steam Mop",
+        "originalPrice": "$139.99",
+        "markdownPrice": "$39.99"
+    },
+    "0004": {
+        "sku": "0004",
+        "name": "Lego Marvel",
+        "originalPrice": "$45.99",
+        "markdownPrice": "$24.99"
+    },
+    "0005": {
+        "sku": "0005",
+        "name": "Bonne Maman Jam",
+        "originalPrice": "$8.99",
+        "markdownPrice": "$4.99"
+    },
+    "0006": {
+        "sku": "0006",
+        "name": "Laura Secord Jam",
+        "originalPrice": "$24.99",
+        "markdownPrice": "$14.99"
+    },
+    "0007": {
+        "sku": "0007",
+        "name": "Hickory Farms Jelly",
+        "originalPrice": "$19.99",
+        "markdownPrice": "$14.99"
+    },
+    "0008": {
+        "sku": "0008",
+        "name": "Versace",
+        "originalPrice": "$25.99",
+        "markdownPrice": ""
+    },
+    "0009": {
+        "sku": "0009",
+        "name": "Sony Earphones",
+        "originalPrice": "$49.99",
+        "markdownPrice": "$39.99"
+    },
+    "0010": {
+        "sku": "0010",
+        "name": "JBL Earphones",
+        "originalPrice": "$199.99",
+        "markdownPrice": ""
+    },
+    "0011": {
+        "sku": "0011",
+        "name": "Apple Airpods",
+        "originalPrice": "$329.99",
+        "markdownPrice": ""
+    },
+    "0012": {
+        "sku": "0012",
+        "name": "Sennheiser Headphones",
+        "originalPrice": "$279.99",
+        "markdownPrice": ""
+    },
+    "0013": {
+        "sku": "0013",
+        "name": "Cold-FX Capsules",
+        "originalPrice": "$64.99",
+        "markdownPrice": "$49.99"
+    },
+    "0014": {
+        "sku": "0014",
+        "name": "Nin Jiom Cough Syrup",
+        "originalPrice": "$10.99",
+        "markdownPrice": "$8.99"
+    },
+    "0015": {
+        "sku": "0015",
+        "name": "Ricola Cough Drops",
+        "originalPrice": "$4.99",
+        "markdownPrice": ""
+    },
+    "0016": {
+        "sku": "0016",
+        "name": "Mucinex Tablets",
+        "originalPrice": "$19.99",
+        "markdownPrice": "$14.99"
+    },
+    "0017": {
+        "sku": "0017",
+        "name": "Bond Environstone Fire Pit",
+        "originalPrice": "$499.99",
+        "markdownPrice": "$149.99"
+    },
+    "0018": {
+        "sku": "0018",
+        "name": "London Drugs Laundry Rack",
+        "originalPrice": "$99.99",
+        "markdownPrice": "$49.99"
+    },
+    "0019": {
+        "sku": "0019",
+        "name": "Pleasant Hearth Fireplace",
+        "originalPrice": "$349.99",
+        "markdownPrice": "$199.99"
+    },
+    "0020": {
+        "sku": "0020",
+        "name": "De'Longhi Radiator",
+        "originalPrice": "$179.99",
+        "markdownPrice": ""
+    }
+}

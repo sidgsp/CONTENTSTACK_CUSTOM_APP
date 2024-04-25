@@ -1,6 +1,8 @@
 
 .layout-container {
   margin: 0px;
+  display: flex;
+  flex-direction: column;
 }
 
 .ui-location-wrapper {
@@ -17,7 +19,7 @@
   align-items: center;
   gap: 1.9375rem;
   align-self: stretch;
-  width: 96vw;
+  width: 75vw;
 }
 
 .ui-container {
